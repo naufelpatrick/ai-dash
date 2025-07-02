@@ -44,7 +44,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Brain className="h-8 w-8 text-blue-600" />
-              <span className="text-xl font-bold text-gray-900">InsightCopilot</span>
+              <span className="text-xl font-bold text-gray-900">Monitora AI</span>
             </div>
             <Button 
               onClick={() => document.getElementById('cta-form')?.scrollIntoView({ behavior: 'smooth' })}
@@ -364,7 +364,7 @@ const Index = () => {
               Pronto para transformar seus dados?
             </h2>
             <p className="text-xl text-blue-100 mb-8">
-              Cadastre-se para receber acesso antecipado e seja um dos primeiros a usar o InsightCopilot
+              Cadastre-se para receber acesso antecipado e seja um dos primeiros a usar o Monitora AI
             </p>
             
             <Card className="bg-white p-8">
