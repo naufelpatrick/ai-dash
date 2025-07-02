@@ -135,7 +135,7 @@ const Index = () => {
                 A solução que você estava esperando
               </h2>
               <p className="text-lg text-gray-600">
-                O InsightCopilot conecta diretamente aos seus dashboards e funciona como um analista de dados pessoal
+                O Monitora AI conecta diretamente aos seus dashboards e funciona como um analista de dados pessoal
               </p>
             </div>
             
@@ -223,7 +223,7 @@ const Index = () => {
                 {
                   step: "1",
                   title: "Conecte",
-                  description: "Conecte o InsightCopilot aos seus dashboards existentes",
+                  description: "Conecte o Monitora aos seus dashboards existentes",
                   icon: <BarChart3 className="h-8 w-8 text-blue-600" />
                 },
                 {
@@ -269,7 +269,7 @@ const Index = () => {
           <div className="max-w-4xl mx-auto">
             <div className="text-center mb-16">
               <h2 className="text-4xl font-bold text-gray-900 mb-6">
-                Para quem é o InsightCopilot?
+                Para quem é o Monitora AI?
               </h2>
             </div>
             
@@ -337,7 +337,7 @@ const Index = () => {
         </div>
       </section>
 
-      {/* Testimonials Placeholder */}
+      {/* Testimonials Placeholder 
       <section className="py-20 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
@@ -354,7 +354,7 @@ const Index = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* CTA Form */}
       <section id="cta-form" className="py-20 bg-blue-600">
@@ -418,7 +418,7 @@ const Index = () => {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Brain className="h-6 w-6 text-blue-400" />
-                <span className="text-lg font-bold">InsightCopilot</span>
+                <span className="text-lg font-bold">Monitora AI</span>
               </div>
               <p className="text-gray-400">
                 Transformando dados em insights inteligentes com IA avançada.
@@ -454,7 +454,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 InsightCopilot. Todos os direitos reservados.</p>
+            <p>&copy; 2024 InteliMerk. Todos os direitos reservados.</p>
           </div>
         </div>
       </footer>
