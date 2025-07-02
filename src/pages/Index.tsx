@@ -135,7 +135,7 @@ const Index = () => {
                 A solução que você estava esperando
               </h2>
               <p className="text-lg text-gray-600">
-                O InsightCopilot conecta diretamente aos seus dashboards e funciona como um analista de dados pessoal
+                O Monitora conecta diretamente aos seus dashboards e funciona como um analista de dados pessoal
               </p>
             </div>
             
@@ -223,7 +223,7 @@ const Index = () => {
                 {
                   step: "1",
                   title: "Conecte",
-                  description: "Conecte o InsightCopilot aos seus dashboards existentes",
+                  description: "Conecte o Monitora aos seus dashboards existentes",
                   icon: <BarChart3 className="h-8 w-8 text-blue-600" />
                 },
                 {
@@ -269,7 +269,7 @@ const Index = () => {
           <div className="max-w-4xl mx-auto">
             <div className="text-center mb-16">
               <h2 className="text-4xl font-bold text-gray-900 mb-6">
-                Para quem é o InsightCopilot?
+                Para quem é o Monitora?
               </h2>
             </div>
             
