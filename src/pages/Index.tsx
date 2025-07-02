@@ -418,7 +418,7 @@ const Index = () => {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Brain className="h-6 w-6 text-blue-400" />
-                <span className="text-lg font-bold">InsightCopilot</span>
+                <span className="text-lg font-bold">Monitora</span>
               </div>
               <p className="text-gray-400">
                 Transformando dados em insights inteligentes com IA avançada.
@@ -454,7 +454,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 InsightCopilot. Todos os direitos reservados.</p>
+            <p>&copy; 2024 Intelimerk. Todos os direitos reservados.</p>
           </div>
         </div>
       </footer>
